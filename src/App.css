@@ -1,0 +1,30 @@
+.blur {
+  opacity: 0.1;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.logout {
+  position: absolute;
+  top: 15px;
+  right: 5px;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.row {
+  padding: 5%;
+}
+
+.edit_cols {
+  display: flex;
+  align-items: center;
+}
+
+.fas {
+  cursor: pointer;
+}
